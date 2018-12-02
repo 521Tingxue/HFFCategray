@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HFFCategray_Tests' do
+  pod 'HFFCategray', :path => '../'
+  
+  
+end
